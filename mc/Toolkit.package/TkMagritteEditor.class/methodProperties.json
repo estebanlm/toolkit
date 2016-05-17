@@ -1,0 +1,18 @@
+{
+	"class" : {
+		"new" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object:description:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object:description:title:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object:presenter:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object:presenter:title:" : "EstebanLorenzano 5/17/2016 14:20:09" },
+	"instance" : {
+		"asMagritteMorph" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"calculateHeight" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"createObject" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"description" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"go" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initializeObject:description:title:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"object" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"preferredExtent" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"title" : "EstebanLorenzano 5/17/2016 14:20:09" } }

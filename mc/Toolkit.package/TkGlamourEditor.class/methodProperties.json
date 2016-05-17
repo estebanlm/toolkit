@@ -1,0 +1,14 @@
+{
+	"class" : {
+		"defaultAcceptIcon" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"defaultCancelIcon" : "EstebanLorenzano 5/17/2016 14:20:09" },
+	"instance" : {
+		"acceptIcon" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"acceptIcon:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"buildActionsOn:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"buildBrowser" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"cancelIcon" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"cancelIcon:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"go" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"startValue" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"value" : "EstebanLorenzano 5/17/2016 14:20:09" } }

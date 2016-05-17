@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildActionsOn:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"buildObjectsOn:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"buildSelectCheckboxFor:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initialize" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"isSelected:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"removeSelection:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"select:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"selection" : "EstebanLorenzano 5/17/2016 14:20:09" } }

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"for:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initialize" : "EstebanLorenzano 5/17/2016 14:20:09" },
+	"instance" : {
+		"activeHand" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"convertButton:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"convertModifiers:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"dispatchMorphicEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"handleEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"mapSymbolToKeyValue:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"morphicWorld" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"morphicWorld:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitKeyDownEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitKeyUpEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitMouseButtonPressEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitMouseButtonReleaseEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitMouseMoveEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitMouseWheelEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitTextInputEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitUnknownEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitWindowCloseEvent:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"visitWindowResizeEvent:" : "EstebanLorenzano 5/17/2016 14:20:09" } }

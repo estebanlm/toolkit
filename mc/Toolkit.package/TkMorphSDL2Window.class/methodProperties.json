@@ -1,0 +1,19 @@
+{
+	"class" : {
+		"exampleButton" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"exampleCheckBox" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"exampleFullWorld" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"exampleImage" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"exampleLayout" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"exampleMenu" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"root:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"root:position:" : "EstebanLorenzano 5/17/2016 14:20:09" },
+	"instance" : {
+		"close" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initialExtent" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initializeEventHandler" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initializeRoot:" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initializeSDLWindow" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"initializeWrappedMorph" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"rootMorph" : "EstebanLorenzano 5/17/2016 14:20:09",
+		"title" : "EstebanLorenzano 5/17/2016 14:20:09" } }
