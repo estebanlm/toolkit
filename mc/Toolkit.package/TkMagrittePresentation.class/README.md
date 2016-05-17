@@ -1,0 +1,1 @@
+I define a special kind of magritte presentation (#guiMagritte), who enhances glamour control of magritte presentations.

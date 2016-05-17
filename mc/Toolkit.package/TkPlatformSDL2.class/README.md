@@ -1,0 +1,1 @@
+I define open methods on OSWindow (SDL) platform.

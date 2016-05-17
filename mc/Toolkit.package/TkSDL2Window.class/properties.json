@@ -1,0 +1,16 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"surface",
+		"sdlSurface",
+		"sdlHandle" ],
+	"name" : "TkSDL2Window",
+	"pools" : [
+		"SDL2Constants" ],
+	"super" : "OSWindow",
+	"type" : "normal" }

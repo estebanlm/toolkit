@@ -1,0 +1,16 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"announcer",
+		"window",
+		"activeHand" ],
+	"name" : "TkSystemWindowSDL2EventHandler",
+	"pools" : [
+		 ],
+	"super" : "TkMorphSDL2EventHandler",
+	"type" : "normal" }

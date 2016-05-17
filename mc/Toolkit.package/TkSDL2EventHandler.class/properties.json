@@ -1,0 +1,15 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"announcer" ],
+	"name" : "TkSDL2EventHandler",
+	"pools" : [
+		 ],
+	"super" : "OSWindowEventVisitor",
+	"type" : "normal" }

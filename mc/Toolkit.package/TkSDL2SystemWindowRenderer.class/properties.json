@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TkSDL2SystemWindowRenderer",
+	"pools" : [
+		 ],
+	"super" : "GLMMorphicWindowRenderer",
+	"type" : "normal" }

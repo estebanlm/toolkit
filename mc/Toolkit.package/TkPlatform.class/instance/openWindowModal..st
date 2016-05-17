@@ -1,0 +1,3 @@
+showing
+openWindowModal: aWindow
+	self subclassResponsibility

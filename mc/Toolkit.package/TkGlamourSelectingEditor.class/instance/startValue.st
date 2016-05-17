@@ -1,0 +1,3 @@
+accessing
+startValue
+	^ self list

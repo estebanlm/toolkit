@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Editor",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"selection" ],
+	"name" : "TkGlamourMultiSelectingEditor",
+	"pools" : [
+		 ],
+	"super" : "TkGlamourSelectingEditor",
+	"type" : "normal" }

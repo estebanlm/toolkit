@@ -1,0 +1,15 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"dragArea",
+		"menuList" ],
+	"name" : "TkSystemWindowSDL2Window",
+	"pools" : [
+		 ],
+	"super" : "TkMorphSDL2Window",
+	"type" : "normal" }

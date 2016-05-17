@@ -1,0 +1,3 @@
+visiting
+visitWindowResizeEvent: anEvent
+	window forceUpdate

@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Magritte-Model",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TkValidatorVisitor",
+	"pools" : [
+		 ],
+	"super" : "MAValidatorVisitor",
+	"type" : "normal" }

@@ -1,0 +1,3 @@
+rendering
+renderBrowser: aRenderable
+	self subclassResponsibility

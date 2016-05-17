@@ -1,0 +1,15 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"rootMorph",
+		"wrappedMorph" ],
+	"name" : "TkMorphSDL2Window",
+	"pools" : [
+		 ],
+	"super" : "TkSDL2Window",
+	"type" : "normal" }

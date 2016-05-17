@@ -1,0 +1,1 @@
+I define a special kind of action list presentation suited for GUI applications.

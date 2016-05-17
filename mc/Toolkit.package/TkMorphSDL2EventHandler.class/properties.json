@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		"SymbolCharacterMapping" ],
+	"commentStamp" : "",
+	"instvars" : [
+		"morphicWorld" ],
+	"name" : "TkMorphSDL2EventHandler",
+	"pools" : [
+		"OSKeySymbols" ],
+	"super" : "OSWindowEventVisitor",
+	"type" : "normal" }

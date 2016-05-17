@@ -1,0 +1,4 @@
+initialization
+initializeWrappedMorph
+	super initializeWrappedMorph.
+	wrappedMorph bounds: ActiveWorld bounds

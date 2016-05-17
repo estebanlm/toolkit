@@ -1,0 +1,16 @@
+{
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"window",
+		"renderer",
+		"needsDisplay" ],
+	"name" : "TkAthensWrapMorph",
+	"pools" : [
+		 ],
+	"super" : "AthensWrapMorph",
+	"type" : "normal" }

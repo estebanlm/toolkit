@@ -1,0 +1,3 @@
+*Toolkit-Magritte
+tkDefaultCancelLabel
+	^ 'Cancel'

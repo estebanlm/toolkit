@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listModel" ],
+	"name" : "TkDropListMorph",
+	"pools" : [
+		 ],
+	"super" : "MADropListMorph",
+	"type" : "normal" }

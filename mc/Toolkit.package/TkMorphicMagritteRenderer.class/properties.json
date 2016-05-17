@@ -1,0 +1,15 @@
+{
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		"presenter",
+		"container" ],
+	"name" : "TkMorphicMagritteRenderer",
+	"pools" : [
+		 ],
+	"super" : "GLMMorphicMagritteRenderer",
+	"type" : "normal" }
