@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "<historical>",
+	"instvars" : [
+		 ],
+	"name" : "TkMorphicRenderer",
+	"pools" : [
+		 ],
+	"super" : "GLMMorphicRenderer",
+	"type" : "normal" }

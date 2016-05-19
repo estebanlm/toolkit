@@ -3,4 +3,4 @@ buildCurrentObjectOn: a
 	a tkMagritte 
 		title: [ :object | self titleFor: object ];
 		presenter: #view;
-		beReadOnly
+		in: [ :this | self isReadOnly ifTrue: [ this beReadOnly ] ]

@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"listMorph" ],
+	"name" : "TkOneToManyFastListMorph",
+	"pools" : [
+		 ],
+	"super" : "MAOneToManyMorph",
+	"type" : "normal" }

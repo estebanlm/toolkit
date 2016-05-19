@@ -11,6 +11,6 @@ buildListMorph
 		borderColor: #inset; 
 		borderWidth: 1;
 		height: (listMorph rowHeight * self magritteDescription tkRowsToShow);
-		onAnnouncement: FTSelectionChanged do: [ :ann | ];
+		"onAnnouncement: FTSelectionChanged do: [ :ann | ];"
 		yourself.
 	

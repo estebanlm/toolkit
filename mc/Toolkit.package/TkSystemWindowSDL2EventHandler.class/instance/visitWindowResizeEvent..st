@@ -1,3 +1,5 @@
-visiting
+events
 visitWindowResizeEvent: anEvent
-	window forceUpdate
+	morphicWorld extent: window extent.
+	"window dragArea right: (morphicWorld width - 50)."
+	window forceUpdate.

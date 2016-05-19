@@ -1,0 +1,3 @@
+*Toolkit-Magritte
+tkDefaultEditHelpText
+	^ 'Edit'

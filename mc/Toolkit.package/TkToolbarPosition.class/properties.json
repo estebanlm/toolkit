@@ -1,0 +1,14 @@
+{
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [
+		"uniqueInstance" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TkToolbarPosition",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

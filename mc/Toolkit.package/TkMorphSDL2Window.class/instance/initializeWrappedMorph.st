@@ -4,4 +4,5 @@ initializeWrappedMorph
 		wrap: rootMorph;
 		renderer: self renderer;
 		yourself.
-	wrappedMorph setNeedsDisplay
+	wrappedMorph bounds: self bounds.		
+	wrappedMorph setNeedsDisplay.

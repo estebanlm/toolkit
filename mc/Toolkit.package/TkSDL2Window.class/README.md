@@ -1,0 +1,1 @@
+I'm an abstract SDL2 window.

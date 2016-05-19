@@ -5,7 +5,7 @@ tkOpenModalSDL2
 	result := nil.
 	window := self morph
 		fullBounds;
-		openInOSWindow.
+		asTkSDL2Window.
 	window center.
 	window show.
 	self onAnswer: [ :value | result := value. window close ]. 

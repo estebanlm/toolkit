@@ -1,3 +1,5 @@
 rendering
 renderBrowser: aRenderable
-	self subclassResponsibility
+	^ aRenderable windowRendererClass 
+		render: aRenderable 
+		from: aRenderable defaultRenderer 

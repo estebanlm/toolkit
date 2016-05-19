@@ -9,7 +9,8 @@
 		"title",
 		"list",
 		"listTitle",
-		"listDescription" ],
+		"listDescription",
+		"readOnly" ],
 	"name" : "TkGlamourSelectingEditor",
 	"pools" : [
 		 ],
