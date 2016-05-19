@@ -1,3 +1,3 @@
 accessing
 dragArea: anObject
-	dragArea := anObject
+	dragRegion := anObject

@@ -1,4 +1,4 @@
-closing
+showing
 close 
 	rootMorph delete.
 	rootMorph := nil.

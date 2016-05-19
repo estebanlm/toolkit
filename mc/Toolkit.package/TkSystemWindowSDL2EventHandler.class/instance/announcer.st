@@ -1,3 +1,4 @@
 accessing
 announcer 
-	^ announcer ifNil: [ announcer := Announcer new ]
+	"I use the same announcer as my host window"
+	^ self window rootMorph announcer

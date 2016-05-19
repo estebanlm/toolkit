@@ -1,0 +1,3 @@
+accessing
+denyClose
+	canClose := false

@@ -4,11 +4,11 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "EstebanLorenzano 5/19/2016 17:38",
 	"instvars" : [
-		"menuList" ],
-	"name" : "TkSystemWindowSDL2Window",
+		"canClose" ],
+	"name" : "WindowWillClose",
 	"pools" : [
 		 ],
-	"super" : "TkMorphSDL2Window",
+	"super" : "WindowAnnouncement",
 	"type" : "normal" }
