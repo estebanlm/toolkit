@@ -1,4 +1,4 @@
-converting
+private
 convertModifiers: modifiers
 	| buttons |
 	buttons := 0.

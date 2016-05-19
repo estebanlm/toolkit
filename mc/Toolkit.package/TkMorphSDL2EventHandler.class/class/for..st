@@ -1,3 +1,5 @@
-as yet unclassified
-for: morphicWorld
-	^ self new morphicWorld: morphicWorld; yourself
+instance creation
+for: aMorph
+	^ self basicNew 
+		initializeRootMorph: aMorph; 
+		yourself

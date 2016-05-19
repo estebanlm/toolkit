@@ -34,7 +34,7 @@ visitKeyDownEvent: anEvent
 		position: anEvent position
 		keyValue: (self mapSymbolToKeyValue: anEvent symbol)
 		charCode: (self mapSymbolToKeyValue: anEvent symbol)
-		hand:  morphicWorld activeHand
+		hand:  rootMorph activeHand
 		stamp: Time millisecondClockValue.
 	keyEvent2 scanCode: anEvent scanCode.
 

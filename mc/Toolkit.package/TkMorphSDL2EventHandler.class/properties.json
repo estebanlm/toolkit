@@ -6,7 +6,8 @@
 		"SymbolCharacterMapping" ],
 	"commentStamp" : "",
 	"instvars" : [
-		"morphicWorld" ],
+		"rootMorph",
+		"activeHand" ],
 	"name" : "TkMorphSDL2EventHandler",
 	"pools" : [
 		"OSKeySymbols" ],

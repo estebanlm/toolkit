@@ -1,7 +1,7 @@
 visiting
 visitMouseMoveEvent: anEvent
 	| oldPos |
-	oldPos := morphicWorld activeHand position.
+	oldPos := rootMorph activeHand position.
 
 	^ MouseMoveEvent basicNew
 		setType: #mouseMove 
