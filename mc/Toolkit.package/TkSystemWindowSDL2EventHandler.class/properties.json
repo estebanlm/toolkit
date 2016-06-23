@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-SDL2",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"window" ],
-	"name" : "TkSystemWindowSDL2EventHandler",
-	"pools" : [
-		 ],
 	"super" : "TkMorphSDL2EventHandler",
-	"type" : "normal" }
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"window"
+	],
+	"name" : "TkSystemWindowSDL2EventHandler",
+	"type" : "normal"
+}

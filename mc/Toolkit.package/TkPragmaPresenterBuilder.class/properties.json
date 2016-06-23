@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-Magritte-Model",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"presenter" ],
-	"name" : "TkPragmaPresenterBuilder",
-	"pools" : [
-		 ],
 	"super" : "MAPragmaBuilder",
-	"type" : "normal" }
+	"category" : "Toolkit-Magritte-Model",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"presenter"
+	],
+	"name" : "TkPragmaPresenterBuilder",
+	"type" : "normal"
+}

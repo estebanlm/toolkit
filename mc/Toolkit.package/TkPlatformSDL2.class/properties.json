@@ -1,14 +1,11 @@
 {
-	"category" : "Toolkit-Platform",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "TkPlatformSDL2",
-	"pools" : [
-		 ],
 	"super" : "TkPlatform",
-	"type" : "normal" }
+	"category" : "Toolkit-Platform",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkPlatformSDL2",
+	"type" : "normal"
+}

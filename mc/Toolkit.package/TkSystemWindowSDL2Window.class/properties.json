@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-SDL2",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		"menuList" ],
-	"name" : "TkSystemWindowSDL2Window",
-	"pools" : [
-		 ],
 	"super" : "TkMorphSDL2Window",
-	"type" : "normal" }
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"menuList"
+	],
+	"name" : "TkSystemWindowSDL2Window",
+	"type" : "normal"
+}

@@ -1,14 +1,11 @@
 {
-	"category" : "Toolkit-Magritte-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "TkTextMorph",
-	"pools" : [
-		 ],
 	"super" : "MATextMorph",
-	"type" : "normal" }
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkTextMorph",
+	"type" : "normal"
+}

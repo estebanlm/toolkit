@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"initializeWrappedMorph" : " 6/23/2016 18:56:57",
+		"destroy" : " 6/23/2016 18:56:57",
+		"title" : " 6/23/2016 18:56:57",
+		"initializeEventHandler" : " 6/23/2016 18:56:57",
+		"initialExtent" : " 6/23/2016 18:56:57",
+		"isMaximized" : " 6/23/2016 18:56:57",
+		"isRestored" : " 6/23/2016 18:56:57",
+		"prepareSystemWindow" : " 6/23/2016 18:56:57",
+		"expand" : " 6/23/2016 18:56:57",
+		"initializeSDLWindow" : " 6/23/2016 18:56:57",
+		"createSDLWindowAttributes" : " 6/23/2016 19:55:12",
+		"isMinimized" : " 6/23/2016 18:56:57",
+		"dragArea:" : " 6/23/2016 18:56:57",
+		"center" : " 6/23/2016 18:56:57",
+		"menuList" : " 6/23/2016 18:56:57",
+		"forceUpdate" : " 6/23/2016 18:56:57",
+		"dragArea" : " 6/23/2016 18:56:57"
+	},
+	"class" : { }
+}

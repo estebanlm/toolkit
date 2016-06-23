@@ -1,15 +1,18 @@
 {
-	"category" : "Toolkit-SDL2",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		"SymbolCharacterMapping" ],
 	"commentStamp" : "",
+	"super" : "OSWindowEventVisitor",
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [ ],
+	"pools" : [
+		"OSKeySymbols"
+	],
+	"classvars" : [
+		"SymbolCharacterMapping"
+	],
 	"instvars" : [
 		"rootMorph",
-		"activeHand" ],
+		"activeHand"
+	],
 	"name" : "TkMorphSDL2EventHandler",
-	"pools" : [
-		"OSKeySymbols" ],
-	"super" : "OSWindowEventVisitor",
-	"type" : "normal" }
+	"type" : "normal"
+}

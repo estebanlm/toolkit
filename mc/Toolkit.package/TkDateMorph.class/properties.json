@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-Magritte-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		"textMorph" ],
-	"name" : "TkDateMorph",
-	"pools" : [
-		 ],
 	"super" : "MADateMorph",
-	"type" : "normal" }
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"textMorph"
+	],
+	"name" : "TkDateMorph",
+	"type" : "normal"
+}

@@ -1,15 +1,14 @@
 {
-	"category" : "Toolkit-Glamour-Presentation",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "GLMMagrittePresentation",
+	"category" : "Toolkit-Glamour-Presentation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"presenter",
-		"readOnly" ],
+		"readOnly"
+	],
 	"name" : "TkMagrittePresentation",
-	"pools" : [
-		 ],
-	"super" : "GLMMagrittePresentation",
-	"type" : "normal" }
+	"type" : "normal"
+}

@@ -1,17 +1,16 @@
 {
-	"category" : "Toolkit-Editor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TkEditor",
+	"category" : "Toolkit-Editor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"value",
 		"window",
 		"acceptIcon",
-		"cancelIcon" ],
+		"cancelIcon"
+	],
 	"name" : "TkGlamourEditor",
-	"pools" : [
-		 ],
-	"super" : "TkEditor",
-	"type" : "normal" }
+	"type" : "normal"
+}

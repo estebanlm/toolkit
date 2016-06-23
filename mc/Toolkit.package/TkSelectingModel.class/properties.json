@@ -1,15 +1,14 @@
 {
-	"category" : "Toolkit-Editor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EstebanLorenzano 5/10/2016 09:05",
+	"super" : "Object",
+	"category" : "Toolkit-Editor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"owner",
-		"object" ],
+		"object"
+	],
 	"name" : "TkSelectingModel",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

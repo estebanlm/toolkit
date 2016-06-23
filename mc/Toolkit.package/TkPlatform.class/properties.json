@@ -1,14 +1,15 @@
 {
+	"commentStamp" : "<historical>",
+	"super" : "Object",
 	"category" : "Toolkit-Platform",
 	"classinstvars" : [
-		"uniqueInstance" ],
+		"uniqueInstance"
+	],
+	"pools" : [ ],
 	"classvars" : [
-		"Current" ],
-	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
+		"Current"
+	],
+	"instvars" : [ ],
 	"name" : "TkPlatform",
-	"pools" : [
-		 ],
-	"super" : "Object",
-	"type" : "normal" }
+	"type" : "normal"
+}

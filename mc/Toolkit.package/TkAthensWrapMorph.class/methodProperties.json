@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"window" : " 6/23/2016 18:56:57",
+		"close" : " 6/23/2016 18:56:57",
+		"initializeWindow:" : " 6/23/2016 18:56:57",
+		"initialize" : "EstebanLorenzano 6/23/2016 19:57",
+		"setNeedsDisplay" : " 6/23/2016 18:56:57",
+		"invalidRect:from:" : " 6/23/2016 19:56:42",
+		"renderer:" : " 6/23/2016 18:56:57",
+		"redrawDamagedOwners" : " 6/23/2016 19:55:12",
+		"redrawDamaged" : " 6/23/2016 19:55:12",
+		"wrappedMorph" : " 6/23/2016 19:55:12",
+		"redrawAll" : " 6/23/2016 19:55:12",
+		"createSurface" : " 6/23/2016 18:56:57",
+		"needsDisplay" : " 6/23/2016 19:55:12",
+		"world" : " 6/23/2016 18:56:57",
+		"fullBounds" : " 6/23/2016 18:56:57",
+		"wrap:" : " 6/23/2016 18:56:57",
+		"renderer" : " 6/23/2016 18:56:57",
+		"redraw" : " 6/23/2016 19:56:42",
+		"redrawDamagedByRegion" : " 6/23/2016 19:55:12"
+	},
+	"class" : {
+		"window:" : " 6/23/2016 18:56:57"
+	}
+}

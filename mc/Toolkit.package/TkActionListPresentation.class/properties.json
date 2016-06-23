@@ -1,14 +1,11 @@
 {
-	"category" : "Toolkit-Glamour-Presentation",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
-	"instvars" : [
-		 ],
-	"name" : "TkActionListPresentation",
-	"pools" : [
-		 ],
 	"super" : "GLMActionListPresentation",
-	"type" : "normal" }
+	"category" : "Toolkit-Glamour-Presentation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkActionListPresentation",
+	"type" : "normal"
+}

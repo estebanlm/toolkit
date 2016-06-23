@@ -1,14 +1,11 @@
 {
-	"category" : "Toolkit-Glamour-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "TkSystemWindowRenderer",
-	"pools" : [
-		 ],
 	"super" : "GLMMorphicWindowRenderer",
-	"type" : "normal" }
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkSystemWindowRenderer",
+	"type" : "normal"
+}

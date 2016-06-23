@@ -1,0 +1,26 @@
+{
+	"instance" : {
+		"initialize" : " 6/23/2016 18:56:57",
+		"title:" : " 6/23/2016 18:56:57",
+		"beReadOnly" : " 6/23/2016 18:56:57",
+		"createObject" : " 6/23/2016 18:56:57",
+		"list" : " 6/23/2016 18:56:57",
+		"list:" : " 6/23/2016 18:56:57",
+		"listTitle:" : " 6/23/2016 18:56:57",
+		"listDescription" : " 6/23/2016 18:56:57",
+		"startValue" : " 6/23/2016 18:56:57",
+		"descriptionFor:" : " 6/23/2016 18:56:57",
+		"isReadOnly" : " 6/23/2016 18:56:57",
+		"buildObjectsOn:" : " 6/23/2016 18:56:57",
+		"title" : " 6/23/2016 18:56:57",
+		"buildCurrentObjectOn:" : " 6/23/2016 18:56:57",
+		"addObjectsMenuOn:" : " 6/23/2016 18:56:57",
+		"buildBrowser" : " 6/23/2016 18:56:57",
+		"listTitle" : " 6/23/2016 18:56:57",
+		"listDescription:" : " 6/23/2016 18:56:57",
+		"titleFor:" : " 6/23/2016 18:56:57"
+	},
+	"class" : {
+		"defaultListTitle" : " 6/23/2016 18:56:57"
+	}
+}

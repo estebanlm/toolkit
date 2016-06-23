@@ -1,14 +1,11 @@
 {
-	"category" : "Toolkit-Magritte-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
-	"instvars" : [
-		 ],
-	"name" : "TkSingleSelectFastListMorph",
-	"pools" : [
-		 ],
 	"super" : "MASingleSelectListMorph",
-	"type" : "normal" }
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkSingleSelectFastListMorph",
+	"type" : "normal"
+}

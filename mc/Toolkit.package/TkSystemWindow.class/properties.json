@@ -1,15 +1,14 @@
 {
-	"category" : "Toolkit-Glamour-Morphic",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "",
+	"super" : "GLMSystemWindow",
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"toolbarMorph",
-		"contentMorph" ],
+		"contentMorph"
+	],
 	"name" : "TkSystemWindow",
-	"pools" : [
-		 ],
-	"super" : "GLMSystemWindow",
-	"type" : "normal" }
+	"type" : "normal"
+}

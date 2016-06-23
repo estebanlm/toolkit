@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-SDL2",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EstebanLorenzano 5/19/2016 17:38",
-	"instvars" : [
-		"canClose" ],
-	"name" : "WindowWillClose",
-	"pools" : [
-		 ],
 	"super" : "WindowAnnouncement",
-	"type" : "normal" }
+	"category" : "Toolkit-SDL2",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"canClose"
+	],
+	"name" : "WindowWillClose",
+	"type" : "normal"
+}

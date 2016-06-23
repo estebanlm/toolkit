@@ -1,0 +1,17 @@
+{
+	"instance" : {
+		"isEnabled" : " 6/23/2016 18:56:57",
+		"releaseFocusIfContained" : " 6/23/2016 18:56:57",
+		"enable" : " 6/23/2016 18:56:57",
+		"tkOpenModal" : " 6/23/2016 18:56:57",
+		"tkOpenSDL2" : " 6/23/2016 18:56:57",
+		"asTkSDL2Window" : " 6/23/2016 18:56:57",
+		"tkOpenModalSDL2" : " 6/23/2016 18:56:57",
+		"waitUntilClosed" : " 6/23/2016 18:56:57",
+		"disable" : " 6/23/2016 18:56:57",
+		"tkOpen" : " 6/23/2016 18:56:57",
+		"tkOpenWorld" : " 6/23/2016 18:56:57",
+		"tkOpenModalWorld" : " 6/23/2016 18:56:57"
+	},
+	"class" : { }
+}

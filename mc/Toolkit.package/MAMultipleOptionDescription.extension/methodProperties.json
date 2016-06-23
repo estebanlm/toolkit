@@ -1,0 +1,34 @@
+{
+	"instance" : {
+		"tkPickListTitle:" : " 6/23/2016 18:56:57",
+		"tkPickHelpText:" : " 6/23/2016 18:56:57",
+		"tkPickCancelIcon:" : " 6/23/2016 18:56:57",
+		"tkRemoveIcon" : " 6/23/2016 18:56:57",
+		"tkPickIcon:" : " 6/23/2016 18:56:57",
+		"tkListingDescription:" : " 6/23/2016 18:56:57",
+		"tkPickHelpText" : " 6/23/2016 18:56:57",
+		"tkPickAcceptIcon:" : " 6/23/2016 18:56:57",
+		"tkPickAcceptIcon" : " 6/23/2016 18:56:57",
+		"tkListingDescription" : " 6/23/2016 18:56:57",
+		"tkPickListTitle" : " 6/23/2016 18:56:57",
+		"tkRemoveIcon:" : " 6/23/2016 18:56:57",
+		"tkRemoveHelpText:" : " 6/23/2016 18:56:57",
+		"tkHeight" : " 6/23/2016 18:56:57",
+		"tkPickIcon" : " 6/23/2016 18:56:57",
+		"tkPickCancelIcon" : " 6/23/2016 18:56:57",
+		"tkPickTitle:" : " 6/23/2016 18:56:57",
+		"tkRemoveHelpText" : " 6/23/2016 18:56:57",
+		"tkPickTitle" : " 6/23/2016 18:56:57"
+	},
+	"class" : {
+		"tkDefaultPickHelpText" : " 6/23/2016 18:56:57",
+		"tkDefaultPickIcon" : " 6/23/2016 18:56:57",
+		"tkDefaultPickListTitle" : " 6/23/2016 18:56:57",
+		"tkDefaultRemoveIcon" : " 6/23/2016 18:56:57",
+		"tkDefaultPickAcceptIcon" : " 6/23/2016 18:56:57",
+		"tkDefaultPickTitle" : " 6/23/2016 18:56:57",
+		"tkDefaultListingDescription" : " 6/23/2016 18:56:57",
+		"tkDefaultRemoveHelpText" : " 6/23/2016 18:56:57",
+		"tkDefaultPickCancelIcon" : " 6/23/2016 18:56:57"
+	}
+}

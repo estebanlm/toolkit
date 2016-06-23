@@ -1,0 +1,18 @@
+{
+	"instance" : {
+		"openWindow:" : " 6/23/2016 18:56:57",
+		"openMorph:" : " 6/23/2016 18:56:57",
+		"openMorphModal:" : " 6/23/2016 18:56:57",
+		"openBrowser:on:" : " 6/23/2016 18:56:57",
+		"renderBrowser:" : " 6/23/2016 18:56:57",
+		"magritteDefaultContainerClass" : " 6/23/2016 18:56:57",
+		"openWindowModal:" : " 6/23/2016 18:56:57"
+	},
+	"class" : {
+		"useSDL2" : " 6/23/2016 18:56:57",
+		"new" : " 6/23/2016 18:56:57",
+		"current" : " 6/23/2016 18:56:57",
+		"uniqueInstance" : " 6/23/2016 18:56:57",
+		"useWorld" : " 6/23/2016 18:56:57"
+	}
+}

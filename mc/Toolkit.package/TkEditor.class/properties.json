@@ -1,14 +1,13 @@
 {
-	"category" : "Toolkit-Editor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "EstebanLorenzano 5/11/2016 14:02",
-	"instvars" : [
-		"parent" ],
-	"name" : "TkEditor",
-	"pools" : [
-		 ],
 	"super" : "Object",
-	"type" : "normal" }
+	"category" : "Toolkit-Editor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"parent"
+	],
+	"name" : "TkEditor",
+	"type" : "normal"
+}

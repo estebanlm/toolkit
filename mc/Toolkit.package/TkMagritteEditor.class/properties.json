@@ -1,16 +1,15 @@
 {
-	"category" : "Toolkit-Editor",
-	"classinstvars" : [
-		 ],
-	"classvars" : [
-		 ],
 	"commentStamp" : "<historical>",
+	"super" : "TkEditor",
+	"category" : "Toolkit-Editor",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
 	"instvars" : [
 		"object",
 		"description",
-		"title" ],
+		"title"
+	],
 	"name" : "TkMagritteEditor",
-	"pools" : [
-		 ],
-	"super" : "TkEditor",
-	"type" : "normal" }
+	"type" : "normal"
+}

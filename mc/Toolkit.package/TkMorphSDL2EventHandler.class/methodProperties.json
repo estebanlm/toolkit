@@ -1,0 +1,27 @@
+{
+	"instance" : {
+		"initializeRootMorph:" : " 6/23/2016 18:56:57",
+		"convertModifiers:" : " 6/23/2016 18:56:57",
+		"visitMouseButtonPressEvent:" : " 6/23/2016 18:56:57",
+		"handleEvent:" : " 6/23/2016 18:56:57",
+		"dispatchMorphicEvent:" : " 6/23/2016 18:56:57",
+		"activeHand" : " 6/23/2016 18:56:57",
+		"visitMouseWheelEvent:" : " 6/23/2016 18:56:57",
+		"visitTextInputEvent:" : " 6/23/2016 18:56:57",
+		"mapSymbolToKeyValue:" : " 6/23/2016 18:56:57",
+		"visitMouseMoveEvent:" : " 6/23/2016 18:56:57",
+		"visitUnknownEvent:" : " 6/23/2016 18:56:57",
+		"rootMorph" : " 6/23/2016 18:56:57",
+		"visitWindowCloseEvent:" : "EstebanLorenzano 6/23/2016 19:54",
+		"convertButton:" : " 6/23/2016 18:56:57",
+		"visitWindowResizeEvent:" : " 6/23/2016 18:56:57",
+		"visitMouseButtonReleaseEvent:" : " 6/23/2016 18:56:57",
+		"visitKeyUpEvent:" : " 6/23/2016 18:56:57",
+		"visitKeyDownEvent:" : " 6/23/2016 18:56:57"
+	},
+	"class" : {
+		"for:" : " 6/23/2016 18:56:57",
+		"initialize" : " 6/23/2016 18:56:57",
+		"new" : " 6/23/2016 18:56:57"
+	}
+}

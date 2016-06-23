@@ -1,0 +1,22 @@
+{
+	"instance" : {
+		"asMagritteMorph" : " 6/23/2016 18:56:57",
+		"createObject" : " 6/23/2016 18:56:57",
+		"calculateHeight" : " 6/23/2016 18:56:57",
+		"description" : " 6/23/2016 18:56:57",
+		"go" : " 6/23/2016 18:56:57",
+		"preferredExtent" : " 6/23/2016 18:56:57",
+		"object" : " 6/23/2016 18:56:57",
+		"initializeObject:description:title:" : " 6/23/2016 18:56:57",
+		"title" : " 6/23/2016 18:56:57"
+	},
+	"class" : {
+		"object:presenter:title:" : " 6/23/2016 18:56:57",
+		"new" : " 6/23/2016 18:56:57",
+		"object:" : " 6/23/2016 18:56:57",
+		"object:presenter:" : " 6/23/2016 18:56:57",
+		"object:description:title:" : " 6/23/2016 18:56:57",
+		"object:description:" : " 6/23/2016 18:56:57",
+		"object:title:" : " 6/23/2016 18:56:57"
+	}
+}
