@@ -1,0 +1,15 @@
+{
+	"category" : "Toolkit-Util",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"lastFPS",
+		"lastTime" ],
+	"name" : "TkFPSCounter",
+	"pools" : [
+		 ],
+	"super" : "Model",
+	"type" : "normal" }
