@@ -1,8 +1,8 @@
 initialization
 createSDLWindowAttributes
 	^ OSWindowAttributes new 
+		preferableDriver: OSSDL2Driver current;
 		title: self title;
 		bounds: (0@0 extent: (self initialExtent max: self rootMorph extent));
-		preferableDriver: OSSDL2Driver current;
 		visible: false;
 		yourself
