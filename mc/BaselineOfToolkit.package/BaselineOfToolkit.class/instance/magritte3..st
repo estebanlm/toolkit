@@ -6,5 +6,5 @@ magritte3: spec
 			spec
 				className: 'ConfigurationOfMagritte3';
 				versionString: #stable;
-				loads: #('Magritte-Morph');
+				loads: #('Magritte-Morph' 'Magritte-GT');
 				repository: 'http://www.smalltalkhub.com/mc/Magritte/Magritte3/main' ]
