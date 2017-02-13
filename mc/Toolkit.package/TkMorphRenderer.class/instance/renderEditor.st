@@ -1,0 +1,3 @@
+rendering
+renderEditor
+	self subclassResponsibility

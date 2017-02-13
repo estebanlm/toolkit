@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Toolkit-Magritte-Renderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morph",
+		"model",
+		"magritteDescription"
+	],
+	"name" : "TkMorphRenderer",
+	"type" : "normal"
+}

@@ -1,10 +1,10 @@
-private-building
-buildPickButtonMorph
+private factory
+createPickButtonMorph
 	^ PluggableButtonMorph new 
 		icon: self magritteDescription tkPickIcon;
 		label: nil;
 		helpText: self magritteDescription tkPickHelpText;
 		model: self;
-		action: #pickOne;
+		action: #chooseOne;
 		borderWidth: 0;
 		yourself

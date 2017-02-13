@@ -1,1 +1,1 @@
-I'm a magritte based generator
+I'm a magritte based generator.

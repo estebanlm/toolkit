@@ -1,5 +1,5 @@
-private-building
-buildRemoveButtonMorph: anObject
+private factory
+createRemoveButtonMorph: anObject
 	| removeIcon |
 	removeIcon := self magritteDescription tkRemoveIcon.
 	^ IconicButton new 

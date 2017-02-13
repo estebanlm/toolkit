@@ -1,5 +1,5 @@
 actions
-pickOne
+chooseOne
 	| element elements |
 	
 	element := TkGlamourSelectingEditor new

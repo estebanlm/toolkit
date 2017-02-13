@@ -1,5 +1,5 @@
-private-building
-buildAddButtonMorph
+private factory
+createAddButtonMorph
 	^ PluggableButtonMorph new 
 		icon: self magritteDescription tkAddIcon;
 		label: nil;

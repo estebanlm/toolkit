@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "MAVisitor",
+	"category" : "Toolkit-Magritte-Renderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"container",
+		"morph",
+		"model"
+	],
+	"name" : "TkFormRenderer",
+	"type" : "normal"
+}

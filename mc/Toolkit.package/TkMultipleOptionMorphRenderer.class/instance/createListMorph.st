@@ -1,11 +1,11 @@
-private-building
-buildListMorph
+private factory
+createListMorph
 	| elements |
-	elements := self value asArray.
+	elements := self model value asArray.
 	^ (listMorph := FTEasyListMorph new)
 		elements: elements;
 		display: [ :object | self magritteDescription reference toString: object ];
-		icon: [ :object | self buildRemoveButtonMorph: object ];
+		icon: [ :object | self createRemoveButtonMorph: object ];
 		intercellSpacing: 1;
 		hResizing: #spaceFill;
 		borderColor: #inset; 

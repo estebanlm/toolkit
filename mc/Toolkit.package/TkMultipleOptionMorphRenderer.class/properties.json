@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "TkMorphRenderer",
+	"category" : "Toolkit-Magritte-Renderer",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"listMorph"
+	],
+	"name" : "TkMultipleOptionMorphRenderer",
+	"type" : "normal"
+}

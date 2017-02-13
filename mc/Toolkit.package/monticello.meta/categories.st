@@ -4,5 +4,6 @@ SystemOrganization addCategory: 'Toolkit-Glamour-Morphic'!
 SystemOrganization addCategory: 'Toolkit-Glamour-Presentation'!
 SystemOrganization addCategory: 'Toolkit-Magritte-Model'!
 SystemOrganization addCategory: 'Toolkit-Magritte-Morphic'!
+SystemOrganization addCategory: 'Toolkit-Magritte-Renderer'!
 SystemOrganization addCategory: 'Toolkit-Platform'!
 SystemOrganization addCategory: 'Toolkit-SDL2'!

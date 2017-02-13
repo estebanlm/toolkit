@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "ComposableModel",
+	"category" : "Toolkit-Magritte-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"model",
+		"magritteDescription",
+		"list",
+		"addButton"
+	],
+	"name" : "TkSingleOptionModel",
+	"type" : "normal"
+}

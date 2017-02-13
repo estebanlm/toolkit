@@ -1,3 +1,3 @@
 *Toolkit-Magritte
-asMorphFor: presenterSymbol
+asMagritteMorphFor: presenterSymbol
 	^ (self magritteDescriptionFor: presenterSymbol) asMorphOn: self
