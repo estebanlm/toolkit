@@ -17,7 +17,7 @@ renderToolbarForPresentation: aPresentation inMorph: aMorph
 				dropDownMenuFrom: [ | menu |
 					menu := self menuIn: MenuMorph new for: aPresentation.
 					menu popUpEvent: self currentEvent in: aMorph world ]
-				withIcon: aMorph theme windowMenuForm)
+				withIcon: #glamorousMore asIcon)
 				yourself)].
 	
 	^ dock
