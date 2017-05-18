@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "EstebanLorenzano 5/18/2017 18:28",
+	"super" : "GLMMorphPresentation",
+	"category" : "Toolkit-Glamour-Presentation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"morphTransmissions"
+	],
+	"name" : "TkMorphPresentation",
+	"type" : "normal"
+}

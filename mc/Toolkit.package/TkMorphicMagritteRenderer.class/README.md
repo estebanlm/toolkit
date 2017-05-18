@@ -1,1 +1,1 @@
-I render a magritte presentation as defined in GUIMagrittePresentation
+I render a magritte presentation as defined in TkMagrittePresentation

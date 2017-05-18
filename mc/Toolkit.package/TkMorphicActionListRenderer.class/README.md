@@ -1,1 +1,1 @@
-I render a special kinf od action list defined in GUIActionListPresentation.
+I render a special kinf od action list defined in TkActionListPresentation.
