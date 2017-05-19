@@ -1,0 +1,3 @@
+rendering
+renderReadonly
+	self renderEditor
