@@ -4,9 +4,9 @@ go
 
 	value := nil.
 	browser := self buildBrowser.
+	browser initialExtent: (self preferredExtent ifNil: [ browser initialExtent ]).
 	browser startOn: self startValue.
 	window := TkPlatform current renderBrowser: browser.
-	window extent: browser initialExtent.
 	window tkOpenModal.
 	
 	^ self value
