@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "<historical>",
+	"super" : "TkAction",
+	"category" : "Toolkit-Glamour-Presentation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"state",
+		"onIcon",
+		"offIcon"
+	],
+	"name" : "TkToggleAction",
+	"type" : "normal"
+}
