@@ -1,4 +1,4 @@
 testing
-isOn
+isPressed
 	^ state
 		

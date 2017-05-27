@@ -1,5 +1,5 @@
 private
 toggleState
-	self isOn
-		ifTrue: [ self turnOff ]
-		ifFalse: [ self turnOn ]
+	self isPressed
+		ifTrue: [ self releaseButton ]
+		ifFalse: [ self pressButton ]

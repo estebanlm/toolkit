@@ -7,8 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"state",
-		"onIcon",
-		"offIcon"
+		"pressedIcon",
+		"unpressedIcon"
 	],
 	"name" : "TkToggleAction",
 	"type" : "normal"

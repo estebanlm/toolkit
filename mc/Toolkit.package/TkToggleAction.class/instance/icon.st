@@ -1,5 +1,5 @@
 accessing
 icon 
 	^ icon ifNil: [ 
-		self turnOff. "By default is off"
+		self releaseButton. "By default is released"
 		icon ]
