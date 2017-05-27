@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "<historical>",
-	"super" : "TkAction",
+	"super" : "TkExtentedAction",
 	"category" : "Toolkit-Glamour-Presentation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
