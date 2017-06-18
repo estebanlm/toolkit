@@ -5,7 +5,9 @@ buildListMorph
 	^ (listMorph := FTEasyListMorph new)
 		elements: elements;
 		display: [ :object | self magritteDescription reference toString: object ];
-		icon: [ :object | self buildObjectButtonBar: object ];
+		in: [ :this | 
+			self magritteDescription isReadonly 
+				ifFalse: [ this icon: [ :object | self buildObjectButtonBar: object ] ] ];
 		intercellSpacing: 1;
 		hResizing: #spaceFill;
 		borderColor: #inset; 

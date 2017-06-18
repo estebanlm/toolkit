@@ -6,6 +6,8 @@ buildMorphView
 		cellInset: 3;
 		hResizing: #spaceFill;
 		vResizing: #shrinkWrap;
-		addMorph: self buildButtonBar;
+		in: [ :this | 
+			self magritteDescription isReadonly 
+				ifFalse: [ this addMorph: self buildButtonBar ] ];
 		addMorph: self buildListMorph;
 		yourself
