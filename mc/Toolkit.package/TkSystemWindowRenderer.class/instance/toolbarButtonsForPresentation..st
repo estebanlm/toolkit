@@ -1,6 +1,6 @@
 rendering
 toolbarButtonsForPresentation: aPresentation
-	^ aPresentation allActions 
+	^ (self collectActionsFor: aPresentation)
 		select: [:each | each isButton and: [ each isAvailableOn: aPresentation ]]
 		thenCollect: [:each | |actionMorph|
 			actionMorph := ((each renderGlamorouslyOn: self renderer)

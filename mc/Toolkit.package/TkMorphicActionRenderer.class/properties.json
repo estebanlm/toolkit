@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "GLMMorphicActionRenderer",
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkMorphicActionRenderer",
+	"type" : "normal"
+}

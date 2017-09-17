@@ -1,4 +1,4 @@
-instance creation
+rendering
 newSystemWindow: aRenderable
 	| newWindow |
 	newWindow := TkMiniWindow new model: aRenderable.

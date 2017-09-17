@@ -1,5 +1,3 @@
 rendering actions
 renderAction: anAction
-	^ (super renderAction: anAction)
-		borderWidth: 0;
-		yourself
+	^ TkMorphicActionRenderer render: anAction from: self

@@ -1,18 +1,14 @@
 rendering
 basicRender: aRenderable
-	| toolbarMorph contentMorph toolbarOffsets topOffset bottomOffset |
+	| contentMorph topOffset bottomOffset toolbarOffsets |
 
-	toolbarOffsets := 0@0 corner: 0@0.
 	topOffset := 4.
 	bottomOffset := self handlePotentialStatusbarFor: aRenderable.
 
 	self setLabelOf: window for: aRenderable.
-	aRenderable hasToolbar ifTrue: [ 
-		toolbarMorph := self renderToolbarForPresentation: aRenderable inMorph: window.
-		window toolbarMorph: toolbarMorph.
-		toolbarOffsets := aRenderable toolbarPosition 
-			addToolbar: toolbarMorph 
-			to: window ].
+	toolbarOffsets := aRenderable hasToolbar 
+		ifTrue: [ self renderToolbarFor: aRenderable in: window ]
+		ifFalse: [ 0@0 corner: 0@0 ].
 
 	contentMorph := self renderObject: aRenderable. 
 	window 
