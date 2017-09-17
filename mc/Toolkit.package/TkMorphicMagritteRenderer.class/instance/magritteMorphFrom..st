@@ -6,11 +6,11 @@ magritteMorphFrom: aMagrittePresentation
 		
 	magritteDescriptionMorph :=  (description asMorphOn: toShow)
 		onAnswer: [ :value | aMagrittePresentation reactOnAnswerFor: value ].
-	aMagrittePresentation isReadOnly 
+	(aMagrittePresentation isReadOnly or: [ aMagrittePresentation isAcceptOnChange ]) 
 		ifFalse: [ magritteDescriptionMorph tkAddButtons ].
 	
 	^ magritteDescriptionMorph morph
 		hResizing: #spaceFill;
 		vResizing: #shrinkWrap;
 		layoutChanged;
-		yourself.
+		yourself

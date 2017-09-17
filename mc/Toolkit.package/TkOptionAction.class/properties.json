@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TkExtentedAction",
+	"category" : "Toolkit-Glamour-Presentation",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkOptionAction",
+	"type" : "normal"
+}

@@ -6,4 +6,5 @@ gtInspectorMagritteIn: composite
 	composite tkMagritte
 		title: 'Form';
 		display: [ self ];
+		presenter: #inspect;
 		when: [ self magritteDescription notEmpty ]

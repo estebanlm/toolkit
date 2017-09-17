@@ -1,4 +1,5 @@
 initialization
 initialize
 	super initialize.
-	readOnly := false
+	readOnly := false.
+	acceptOnChange := false

@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "TkSystemWindowRenderer",
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "TkMiniWindowRenderer",
+	"type" : "normal"
+}

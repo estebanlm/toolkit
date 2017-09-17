@@ -15,10 +15,9 @@ basicRender: aRenderable
 			to: window ].
 
 	contentMorph := self renderObject: aRenderable. 
-	window contentMorph: contentMorph.	
-	window
-		addMorph: contentMorph
-		fullFrame: ((0@0 corner: 1@1) asLayoutFrame 
+	window 
+		addContentMorph: contentMorph 
+		fullFrame:  ((0@0 corner: 1@1) asLayoutFrame 
 			leftOffset: toolbarOffsets left;
 			topOffset: topOffset + toolbarOffsets top;
 			rightOffset: toolbarOffsets right;

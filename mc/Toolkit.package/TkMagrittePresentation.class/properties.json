@@ -7,7 +7,8 @@
 	"classvars" : [ ],
 	"instvars" : [
 		"presenter",
-		"readOnly"
+		"readOnly",
+		"acceptOnChange"
 	],
 	"name" : "TkMagrittePresentation",
 	"type" : "normal"

@@ -1,0 +1,3 @@
+accessing
+labelWidgetAllowance
+	^ super labelWidgetAllowance
