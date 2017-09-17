@@ -1,4 +1,4 @@
-as yet unclassified
+private factory
 createCollapseBox
 	^ self theme 
 		createCollapseBoxFor: self 

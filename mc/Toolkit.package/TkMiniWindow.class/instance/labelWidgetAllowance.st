@@ -1,3 +1,0 @@
-accessing
-labelWidgetAllowance
-	^ super labelWidgetAllowance

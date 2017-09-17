@@ -1,3 +1,3 @@
-as yet unclassified
+private
 labelHeight
-	^ 10
+	^ self boxExtent y + 2

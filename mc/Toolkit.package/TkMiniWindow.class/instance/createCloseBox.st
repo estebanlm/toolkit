@@ -1,4 +1,4 @@
-as yet unclassified
+private factory
 createCloseBox
 	^self theme 
 		createCloseBoxFor: self 
