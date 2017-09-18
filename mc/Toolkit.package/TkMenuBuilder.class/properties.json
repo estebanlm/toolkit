@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "Toolkit-Glamour-Morphic",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"actions",
+		"model"
+	],
+	"name" : "TkMenuBuilder",
+	"type" : "normal"
+}

@@ -1,11 +1,11 @@
 {
-	"commentStamp" : "<historical>",
-	"super" : "TkAction",
+	"commentStamp" : "",
+	"super" : "GLMAction",
 	"category" : "Toolkit-Glamour-Presentation",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],
 	"instvars" : [ ],
-	"name" : "TkExtentedAction",
+	"name" : "TkAction",
 	"type" : "normal"
 }

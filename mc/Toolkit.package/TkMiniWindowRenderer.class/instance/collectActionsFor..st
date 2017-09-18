@@ -1,11 +1,11 @@
 private
 collectActionsFor: aPresentation
 	^ aPresentation allActions
-	 collect: [ :each | 
+	 "collect: [ :each | 
 		each icon 
 			ifNotNil: [ 
 				each copy 
 					icon: (each icon scaledToSize: 10@10);
 					yourself ]
 			ifNil: [ 
-				each ] ]
+				each ] ]"
