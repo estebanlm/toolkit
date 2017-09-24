@@ -1,3 +1,0 @@
-generating
-go 
-	self subclassResponsibility

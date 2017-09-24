@@ -1,1 +1,0 @@
-I render a magritte presentation as defined in TkMagrittePresentation

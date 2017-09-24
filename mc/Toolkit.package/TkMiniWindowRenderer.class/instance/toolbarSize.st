@@ -1,3 +1,0 @@
-private
-toolbarSize
-	^ 12

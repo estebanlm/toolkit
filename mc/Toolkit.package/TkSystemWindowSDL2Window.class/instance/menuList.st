@@ -1,3 +1,0 @@
-accessing
-menuList
-	^ menuList

@@ -1,3 +1,0 @@
-defaults
-defaultListTitle
-	^ 'All'

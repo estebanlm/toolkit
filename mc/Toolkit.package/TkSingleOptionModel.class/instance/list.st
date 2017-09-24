@@ -1,3 +1,0 @@
-accessing ui
-list
-	^ list

@@ -1,3 +1,0 @@
-*Toolkit-Glamour
-windowRendererClass
-	^ GLMMorphicWindowRenderer

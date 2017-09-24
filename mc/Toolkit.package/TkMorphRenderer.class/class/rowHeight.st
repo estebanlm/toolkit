@@ -1,3 +1,0 @@
-accessing
-rowHeight
-	^ 24

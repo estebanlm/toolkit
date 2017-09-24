@@ -1,7 +1,0 @@
-private factory
-createExpandBox
-	"Answer a button for maximising/restoring the window."
-	
-	^self theme 
-		createExpandBoxFor: self
-		scaledTo: self boxExtent

@@ -1,1 +1,0 @@
-I define open methods to display things in the world.

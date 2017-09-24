@@ -1,3 +1,0 @@
-accessing
-dragArea
-	^ dragRegion

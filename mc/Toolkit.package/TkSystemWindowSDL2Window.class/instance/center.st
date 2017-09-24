@@ -1,3 +1,0 @@
-actions
-center 
-	self validHandle position: SDL_WINDOWPOS_CENTERED@SDL_WINDOWPOS_CENTERED

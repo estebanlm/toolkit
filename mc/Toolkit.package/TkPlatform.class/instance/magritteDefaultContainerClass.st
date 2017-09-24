@@ -1,3 +1,0 @@
-accessing
-magritteDefaultContainerClass
-	^ self subclassResponsibility

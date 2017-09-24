@@ -1,3 +1,0 @@
-rendering
-renderEditor
-	self subclassResponsibility

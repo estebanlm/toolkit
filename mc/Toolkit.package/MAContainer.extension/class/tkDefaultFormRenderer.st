@@ -1,3 +1,0 @@
-*Toolkit-Magritte
-tkDefaultFormRenderer
-	^ TkFormRenderer

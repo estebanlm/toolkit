@@ -1,1 +1,0 @@
-I'm an SDL2 wrapper for SystemWindow.

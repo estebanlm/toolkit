@@ -1,3 +1,0 @@
-private-actions
-pickClass
-	self notYetImplemented

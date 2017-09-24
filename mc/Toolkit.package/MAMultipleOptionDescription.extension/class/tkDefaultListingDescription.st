@@ -1,3 +1,0 @@
-*Toolkit-Magritte
-tkDefaultListingDescription
-	^ #listingDescription
